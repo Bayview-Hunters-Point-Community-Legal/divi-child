@@ -11,3 +11,11 @@ article.campaign>div.entry-content {
     float: left;
 }
 
+div#sidebar {
+    width: 30% !important;
+    float: right;
+}
+
+li.donor {
+    width: 32% !important;
+}
