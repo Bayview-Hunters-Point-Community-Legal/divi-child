@@ -9,6 +9,7 @@ Version: 1.0.0
 article.campaign>div.entry-content {
     width: 65%;
     float: left;
+    padding-bottom: 60px;
 }
 
 div#sidebar {
