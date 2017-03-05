@@ -5,3 +5,9 @@ Author: BHPCL
 Template: Divi
 Version: 1.0.0
 */
+
+article.campaign>div.entry-content {
+    width: 65%;
+    float: left;
+}
+
